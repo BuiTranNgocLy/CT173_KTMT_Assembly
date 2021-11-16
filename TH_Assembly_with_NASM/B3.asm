@@ -1,3 +1,10 @@
+;Viết chương trình in tam giác như sau:
+*
+**
+***
+****
+*****
+
 section	.text
 	global _start
 _start:
