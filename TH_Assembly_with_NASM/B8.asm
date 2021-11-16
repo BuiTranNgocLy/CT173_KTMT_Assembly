@@ -1,6 +1,5 @@
 ; Viết thủ tục f cho phép tính: 1 * 2 * 3 * ... * n với n là tham số. 
-
-Viết chương trình gọi thủ tục f với n được nhập từ bàn phím truyền cho f và lấy kết quả trả về từ f in ra màn hình
+;Viết chương trình gọi thủ tục f với n được nhập từ bàn phím truyền cho f và lấy kết quả trả về từ f in ra màn hình
 section .data
 
 	in_msg db "Enter n: ", 0xa
