@@ -1,3 +1,5 @@
+; Viết chương trình cho phép in num ký tự # (num là hằng số)
+
 section .text
    global _start
 _start:
