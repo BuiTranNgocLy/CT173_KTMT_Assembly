@@ -1,3 +1,5 @@
+;Viết chương trình đọc tập tin demo.txt, hiển thị nội dung
+
 section .text
 	global _start
 _start:
