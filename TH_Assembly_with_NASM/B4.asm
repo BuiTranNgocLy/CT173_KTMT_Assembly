@@ -1,3 +1,4 @@
+;Viết chương trình nhập số nguyên từ bàn phím và in số đó ra màn hình
 section .data                           
    userMsg db 'Please enter a number: ' 
    lenUserMsg equ $-userMsg             
