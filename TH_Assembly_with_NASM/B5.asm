@@ -1,3 +1,4 @@
+;Viết chương trình in số num = 123 ra màn hình
 section .text
 	global _start
 _start:
