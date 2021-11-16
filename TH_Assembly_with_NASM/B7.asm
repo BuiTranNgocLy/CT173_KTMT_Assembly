@@ -1,3 +1,5 @@
+;Viết chương trình cho phép tính tổng: 1 + 2 + 3 + ... + n với n được nhập từ bàn phím, in kết quả ra màn hình
+
 section .data
 
 	in_msg db "Enter n: ", 0xa
