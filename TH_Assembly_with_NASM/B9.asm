@@ -1,3 +1,6 @@
+; Viết chương trình tạo tập tin demo.txt và ghi nội dung là:
+;"Hom nay toi hoc lap trinh assembly"
+
 section .text
 	global _start
 _start:
