@@ -1,4 +1,4 @@
-/*Viết chương trình cho phép in chuỗi ký tự: "Hello NASM"*/
+;Viết chương trình cho phép in chuỗi ký tự: "Hello NASM"
 
 section .text
 	global _start 
