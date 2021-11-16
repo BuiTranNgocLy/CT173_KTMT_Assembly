@@ -1,3 +1,4 @@
+;Viết chương trình cho phép nhập vào số nguyên k và in thông báo cho biết số đó là chẵn hay lẻ
 section .bss
 	n_str resb 4
 section .text
