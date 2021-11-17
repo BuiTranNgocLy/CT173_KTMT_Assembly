@@ -1,0 +1,38 @@
+Ôn tập KTMT
+Phần 2: Hiệu năng của 1 máy tính
+
+Response time(Execution time): thời gian thực thi. Thời gian 1 tác vụ cần thiết để thực hiện
+
+Performance: hiệu suất
+
+Clock cycle: chu kì xung đồng hồ
+
+clock rate: số clock cycle thực hiện trong 1s (Hz)
+
+clock cycle time: thời gian thực hiện 1 clock cycle(s)
+
+instrution: số lệnh của chương trình cần thực hiện
+
+CPI: số cock cycle cần thực hiện trên 1 lệnh
+
+MIPS: số triệu lệnh thực hiện được trên 1 giây
+
+IPS: số lệnh trên giây
+
+Performance = 1/Execution time
+
+clock rate = 1/clock cycle time
+
+Execution time = clock cycle * clock cycle time
+				
+			   = clock cycle / clock rate
+			   
+CPI = clock cycle / instrution
+
+Execution time = CPI * instrution * clock cycle
+			   = (CPI * instrution) / clock rate
+			   
+IPS = instrution / Execution = clock rate / CPI
+
+MIPS = IPS / 10^6 = instrution / Execution time * 10^6
+	 = clock rate / CPI* 10^6
