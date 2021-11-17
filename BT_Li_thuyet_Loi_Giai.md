@@ -24,6 +24,7 @@
  ```
 ![image](https://user-images.githubusercontent.com/88178841/141991595-5f832e7d-23fe-4982-a195-8b19529a28e3.png)
 
+- a. IPS(P1) = 
 
 
 ![image](https://user-images.githubusercontent.com/88178841/141991622-abb863e4-3436-4ed2-ba99-0df4b5c24e4c.png)
@@ -37,3 +38,7 @@
 
 # Bài tập 4: Phép toán số học
 ![image](https://user-images.githubusercontent.com/88178841/141992014-e085a8e0-81b4-4037-92eb-46478af74713.png)
+
+<hr>
+
+**Author Bui Tran Ngoc Ly**
